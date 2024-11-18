@@ -1,0 +1,15 @@
+corechat    agenda
+
+nome
+cpf
+matricula   tabela funcionario
+cargo
+setor
+
+
+usuario      tabela login
+senha
+
+
+live preview
+live server 
